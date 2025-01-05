@@ -12,3 +12,10 @@ console.log(obj);
 
 a=345
 console.log(a);
+
+function foo(a,a) {
+    console.log(a,a);
+    
+}
+
+foo(9,9)
